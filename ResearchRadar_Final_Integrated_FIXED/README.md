@@ -108,7 +108,3 @@ Not verified in this environment:
 - Full browser end-to-end acceptance tests or production deployment.
 
 These require your machine's MySQL service, credentials, API key, Windows application-control policy and network access. The archive does not claim those external dependencies have been live-tested.
-
-
-## CyberNout web discovery integration
-The Explore Papers experience now follows the original CyberNout workflow: keyword search, academic-source filter, document-type filter, publication-year range, newest/oldest/most-cited sorting, source badges, abstract preview, DOI/citation metadata, details, save, source URL, PDF download and pagination. The four backend source scraper modules and data-processing modules are retained from the uploaded CyberNout project; ResearchRadar's integrated collection runner imports and stores records in the current ResearchRadar MySQL schema.
